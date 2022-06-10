@@ -1,5 +1,6 @@
 # FITNESS FUNCTIONS
 # WARNING: Low-Dimensional functions may not work, well not for me it didn't but good luck young one :)
+# ∈ [ , ] are their respective bounds
 import numpy as np
 
 
