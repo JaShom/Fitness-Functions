@@ -1,5 +1,7 @@
 # FITNESS FUNCTIONS
 # WARNING: Low-Dimensional functions may not work, well not for me it didn't but good luck young one :)
+import numpy as np
+
 
 def sphere(x):  # SPHERE FUNCTION x IS A VECTOR REPRESENTING ONE AGENT. SPHERE FUNCTION with bounds ∈ [-100, 100]
     sums = 0.0
