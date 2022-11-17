@@ -1,6 +1,6 @@
 # Fitness-Functions
 Fitness functions written in python.\
-Made this because it was most functions are written in matlab or C. Others take too long to find.\
+Made this because most functions are written in matlab or C. Others take too long to find.\
 Here you should:\
 Sphere Funtion\
 Rastrigin Function\
